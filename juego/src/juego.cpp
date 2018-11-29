@@ -499,7 +499,7 @@ void juego::abrirp()
 
 void juego::gameloop()
 {
-    /*
+
     Event event;
     SoundBuffer buffer;
     if(!buffer.loadFromFile("musicTF.wav"))
@@ -510,7 +510,7 @@ void juego::gameloop()
     Sound sound;
     sound.setBuffer(buffer);
     sound.play();
-    */
+
     while(ventana->isOpen()){
 
 

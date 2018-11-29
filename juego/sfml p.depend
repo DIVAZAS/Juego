@@ -1001,7 +1001,7 @@
 
 1540924257 d:\c++\juego\include\color.h
 
-1543496316 source:d:\c++\juego\src\juego.cpp
+1543497031 source:d:\c++\juego\src\juego.cpp
 	"juego.h"
 	<SFML/Graphics.hpp>
 	<SFML/Audio.hpp>
