@@ -31,9 +31,10 @@ juego::juego(int resolucion_x, int resolucion_y, string titulo)
     Personas4[1]="jugador2";
     Personas4[2]="jugador3";
     Personas4[3]="jugador4";
-
     srand(time(NULL));
-    int aleajugs4= (rand()%numPersonasrul4)+1;
+
+    int aleajugs4;
+    aleajugs4= (rand()%numPersonasrul4)+1;
 
     int numPersonasrul5=5;
     string Personas5[numPersonasrul5];
